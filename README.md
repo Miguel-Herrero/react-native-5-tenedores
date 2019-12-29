@@ -2,6 +2,8 @@
 
 A React Native demo project.
 
+## Dependencies
+
 - React & React Native
 - Expo
 - React Navigation
